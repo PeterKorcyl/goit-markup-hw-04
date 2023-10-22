@@ -311,11 +311,11 @@ img {
   align-items: center;
 }
 
-.team-socials-link:hover {
+.team-card-social-items-link:hover {
   background-color: var(--pressed-state-color);
   color: var(--pressed-state-color);
 }
-.team-socials-link:focus {
+.team-card-social-items-link:focus {
   background-color: var(--pressed-state-color);
   color: var(--pressed-state-color);
 }
