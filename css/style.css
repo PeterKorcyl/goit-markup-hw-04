@@ -225,7 +225,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   word-wrap: break-word;
-  text-align: center;
+  text-align: left;
   margin-bottom: 8px;
 }
 
@@ -538,7 +538,6 @@ img {
   margin-right: 76px;
   margin-bottom: 16px;
   display: inline-block;
-  padding-top: 25.5px;
 }
 
 .logo-footer-span {
